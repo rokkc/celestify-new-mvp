@@ -1,0 +1,10 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pathway
+pandas
+python-dotenv
+google-generativeai
+sqlalchemy
+psycopg2-binary
+tzlocal
